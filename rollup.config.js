@@ -17,6 +17,6 @@ export default {
   targets: [
     { dest: 'dist/closest.cjs.js', format: 'cjs' },
     { dest: 'dist/closest.js', format: 'umd' },
-    { dest: 'dist/closest.es6.js', format: 'es6' }
+    { dest: 'dist/closest.es6.js', format: 'es' }
   ]
 }
